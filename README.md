@@ -8,4 +8,4 @@ Build app with `ng build`
 
 ## Actual result
 
-`@@test1` is missing, instead root ICU messages has an auto-generated ID.
+`@@test1` is missing, instead messages has an auto-generated ID.
